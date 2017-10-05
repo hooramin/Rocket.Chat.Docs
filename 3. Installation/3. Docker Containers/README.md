@@ -91,7 +91,7 @@ Press **Y** when prompted to proceed with the install.
 
 ### 3. Installing Docker and Docker-Compose
 **Install Docker**
-https://docs.docker.com/linux/step_one/
+https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/
 
 **Install Docker-Compose version 1.4.2 (64 bit) via cURL**
 ```
